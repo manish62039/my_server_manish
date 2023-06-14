@@ -1,53 +1,55 @@
 {
-  "Songs": [
-    {
-      "id": 1,
-      "title": "आम के स्वाद",
-      "singers": [
-        "Khesari Lal Yadav",
-        "Shipi Raj"
-      ],
-      "url": "https://www.youtube.com/watch?v=Lq0xZ9udYxs&pp=ygURbmV3IGJob2pwdXJpIHNvbmc%3D",
-      "imageUrl": "https://i.ytimg.com/vi/Lq0xZ9udYxs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLAcS2Cu4s-YTdYg2T77m0vYFpDb3g"
-    },
-    {
-      "id": 2,
-      "title": "चढ़ल जवानी रसगुल्ला",
-      "singers": [
-        "Neelkamal Singh",
-        "Shilpi Raj"
-      ],
-      "url": "https://www.youtube.com/watch?v=oJOKRI3ThwA",
-      "imageUrl": "https://i.ytimg.com/vi/oJOKRI3ThwA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLD_T1-dc1k6OJ-KkM0L97FJ8tHVAw"
-    },
-    {
-      "id": 3,
-      "title": "राजाजी के दिलवा",
-      "singers": [
-        "Pawan Singh",
-        "Shivani Singh"
-      ],
-      "url": "https://www.youtube.com/watch?v=cQM55aOrZCg",
-      "imageUrl": "https://i.ytimg.com/vi/cQM55aOrZCg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLDcf7Pxsf5Dh1obGq4s52qhIg4IyA"
-    },
-    {
-      "id": 4,
-      "title": "ढोड़ी कुआँ कईले बा",
-      "singers": [
-        "Chandan Chanchal"
-      ],
-      "url": "https://www.youtube.com/watch?v=7ltVttIHwwI",
-      "imageUrl": "https://i.ytimg.com/vi/7ltVttIHwwI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLAwaZ9AkpfnMK9oT38_us1OJklVAg"
-    },
-    {
-      "id": 5,
-      "title": "पापा के परी",
-      "singers": [
-        "Pawan Singh",
-        "Anupma Yadav"
-      ],
-      "url": "https://www.youtube.com/watch?v=CQdUyG5J0fE",
-      "imageUrl": "https://i.ytimg.com/vi/CQdUyG5J0fE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLAE4MwObUP6iZHNCwOqYmZ_sFtvmw"
-    }
-  ]
+  "Songs": {
+    "Favorites": [
+      {
+        "id": 1,
+        "title": "आम के स्वाद",
+        "singers": [
+          "Khesari Lal Yadav",
+          "Shipi Raj"
+        ],
+        "url": "https://www.youtube.com/watch?v=Lq0xZ9udYxs&pp=ygURbmV3IGJob2pwdXJpIHNvbmc%3D",
+        "imageUrl": "https://i.ytimg.com/vi/Lq0xZ9udYxs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLAcS2Cu4s-YTdYg2T77m0vYFpDb3g"
+      },
+      {
+        "id": 2,
+        "title": "चढ़ल जवानी रसगुल्ला",
+        "singers": [
+          "Neelkamal Singh",
+          "Shilpi Raj"
+        ],
+        "url": "https://www.youtube.com/watch?v=oJOKRI3ThwA",
+        "imageUrl": "https://i.ytimg.com/vi/oJOKRI3ThwA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLD_T1-dc1k6OJ-KkM0L97FJ8tHVAw"
+      },
+      {
+        "id": 3,
+        "title": "राजाजी के दिलवा",
+        "singers": [
+          "Pawan Singh",
+          "Shivani Singh"
+        ],
+        "url": "https://www.youtube.com/watch?v=cQM55aOrZCg",
+        "imageUrl": "https://i.ytimg.com/vi/cQM55aOrZCg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLDcf7Pxsf5Dh1obGq4s52qhIg4IyA"
+      },
+      {
+        "id": 4,
+        "title": "ढोड़ी कुआँ कईले बा",
+        "singers": [
+          "Chandan Chanchal"
+        ],
+        "url": "https://www.youtube.com/watch?v=7ltVttIHwwI",
+        "imageUrl": "https://i.ytimg.com/vi/7ltVttIHwwI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLAwaZ9AkpfnMK9oT38_us1OJklVAg"
+      },
+      {
+        "id": 5,
+        "title": "पापा के परी",
+        "singers": [
+          "Pawan Singh",
+          "Anupma Yadav"
+        ],
+        "url": "https://www.youtube.com/watch?v=CQdUyG5J0fE",
+        "imageUrl": "https://i.ytimg.com/vi/CQdUyG5J0fE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLAE4MwObUP6iZHNCwOqYmZ_sFtvmw"
+      }
+    ]
+  }
 }
